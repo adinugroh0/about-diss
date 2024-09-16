@@ -9,7 +9,7 @@ import Link from "next/link";
 
 export function Beranda() {
   return (
-    <CardContainer className="-top-10">
+    <CardContainer className="inter-var">
       <CardBody
         className="bg-[url('/back.png')] bg-cover bg-center flex 
        flex-col lg:flex-row sm:w-[40rem] rounded-xl  border items-center p-2 justify-between gap-11 group/card  dark:hover:shadow-2xl dark:bg-black dark:border-white/[0.2] border-black/[0.1] dark:hover:shadow-emerald-500/[0.1] ">

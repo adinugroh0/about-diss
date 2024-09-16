@@ -4,7 +4,7 @@ import Hello from "@/components/Hello";
 
 export default function Home() {
   return (
-    <main className="bg-gray-700">
+    <main>
       <Hello />
       <Beranda />
     </main>
